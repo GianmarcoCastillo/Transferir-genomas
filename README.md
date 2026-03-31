@@ -1,2 +1,2 @@
-# Transferir-genomas
-mover los genomas de mags a otra carpeta
+# Transfers Genomes MAGs
+This script transfers MAG genomes to a folder.
